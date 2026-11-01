@@ -650,13 +650,23 @@ header {
   display: flex;
 
   gap: 20px;
+
+  margin-top: 15px;
 }
 
 
 .project-links a {
+  display: inline-flex;
+
+  align-items: center;
+
+  gap: 8px;
+
   color: #d2d3d8;
 
   font-size: 14px;
+
+  text-decoration: none;
 
   transition: 0.3s;
 }
