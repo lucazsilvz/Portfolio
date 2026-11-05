@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://lucazsilvz.github.io/portfolio/" target="_blank">
+  <a href="https://lucazsilvz.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Demo-Acessar%20Portfólio-6c63ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
   </a>
   <a href="https://github.com/lucazsilvz/portfolio/blob/main/LICENSE" target="_blank">
