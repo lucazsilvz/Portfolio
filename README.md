@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://lucazsilvz.github.io/Portf-lio/" target="_blank">
-    <img src="https://img.shields.io/badge/Demo-Acessar%20Portfólio-6c63ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+  <a href="https://lucazsilvz.github.io/portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Demo-Acessar%20Portf%C3%B3lio-6c63ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
   </a>
-  <a href="https://github.com/lucazsilvz/Portf-lio" target="_blank">
+  <a href="https://github.com/lucazsilvz/portifolio" target="_blank">
     <img src="https://img.shields.io/badge/Reposit%C3%B3rio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Status-Em%20Evolu%C3%A7%C3%A3o-success?style=for-the-badge" alt="Status" />
@@ -69,10 +69,10 @@ Para clonar e testar o projeto no seu computador:
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/lucazsilvz/Portf-lio.git
+git clone https://github.com/lucazsilvz/portifolio.git
 
 # 2. Acesse a pasta do projeto
-cd Portf-lio
+cd portifolio
 
 # 3. Abra o arquivo index.html no seu navegador
 # No Windows via terminal:
