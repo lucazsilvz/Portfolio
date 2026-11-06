@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://lucazsilvz.github.io/portifolio/" target="_blank">
+  <a href="https://lucazsilvz.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Demo-Acessar%20Portf%C3%B3lio-6c63ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
   </a>
-  <a href="https://github.com/lucazsilvz/portifolio" target="_blank">
+  <a href="https://github.com/lucazsilvz/Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Reposit%C3%B3rio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Status-Em%20Evolu%C3%A7%C3%A3o-success?style=for-the-badge" alt="Status" />
@@ -29,9 +29,9 @@
 
 ## 📌 Sobre o Projeto
 
-Este é o repositório do meu **portfólio pessoal**, desenvolvido para centralizar e apresentar minha trajetória na área de Tecnologia, minhas competências técnicas e os projetos práticos que venho construindo.
+Este é o repositório do meu **portfólio pessoal**, desenvolvido para centralizar e apresentar minha trajetória na área de Tecnologia, minhas competências técnicas e os projetos práticos que venho desenvolvendo.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo como **Jovem Aprendiz em Suporte de TI**, combinando vivência prática no suporte e infraestrutura com dedicação constante aos estudos em desenvolvimento web, lógica de programação e engenharia de software.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo como **Jovem Aprendiz em Suporte de TI**, combinando vivência prática no suporte e infraestrutura com dedicação constante aos estudos em desenvolvimento web, lógica de programação e tecnologias emergentes.
 
 ---
 
@@ -48,7 +48,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo como **Jovem 
 ## 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Stack | Repositório |
-|:---|:---|:---:|:---:|
+| |:---|:---|:---:|
 | **Imersão Dev: IA & Software** | Calculadora modular em Python e To-Do List visual com testes automatizados desenvolvidos na Imersão Alura & Google. | `Python` `JS` `HTML5` `CSS3` | [Acessar](https://github.com/lucazsilvz/alura-imersao-dev-ia) |
 | **GasSafe** | Solução acadêmica IoT para monitoramento e detecção precoce de gases inflamáveis com interface web. | `IoT` `HTML5` `CSS3` `JS` | *Em desenvolvimento* |
 
@@ -69,10 +69,10 @@ Para clonar e testar o projeto no seu computador:
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/lucazsilvz/portifolio.git
+git clone https://github.com/lucazsilvz/Portfolio.git
 
 # 2. Acesse a pasta do projeto
-cd portifolio
+cd Portfolio
 
 # 3. Abra o arquivo index.html no seu navegador
 # No Windows via terminal:
