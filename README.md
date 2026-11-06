@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://lucazsilvz.github.io/Portfolio/" target="_blank">
+  <a href="https://lucazsilvz.github.io/Portf-lio/" target="_blank">
     <img src="https://img.shields.io/badge/Demo-Acessar%20Portfólio-6c63ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
   </a>
-  <a href="https://github.com/lucazsilvz/portfolio/blob/main/LICENSE" target="_blank">
-    <img src="https://img.shields.io/badge/Licen%C3%A7a-MIT-blue?style=for-the-badge" alt="Licença MIT" />
+  <a href="https://github.com/lucazsilvz/Portf-lio" target="_blank">
+    <img src="https://img.shields.io/badge/Reposit%C3%B3rio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Status-Em%20Evolu%C3%A7%C3%A3o-success?style=for-the-badge" alt="Status" />
 </p>
@@ -29,9 +29,9 @@
 
 ## 📌 Sobre o Projeto
 
-Este é o repositório do meu **portfólio pessoal**, desenvolvido para centralizar e apresentar minha trajetória na área de Tecnologia, minhas competências técnicas e os projetos práticos que venho construindo ao longo dos meus estudos.
+Este é o repositório do meu **portfólio pessoal**, desenvolvido para centralizar e apresentar minha trajetória na área de Tecnologia, minhas competências técnicas e os projetos práticos que venho construindo.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo como **Jovem Aprendiz em Suporte de TI**, combinando vivência prática no suporte e infraestrutura com dedicação constante aos fundamentos de Engenharia de Software e Desenvolvimento Web.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo como **Jovem Aprendiz em Suporte de TI**, combinando vivência prática no suporte e infraestrutura com dedicação constante aos estudos em desenvolvimento web, lógica de programação e engenharia de software.
 
 ---
 
@@ -69,10 +69,10 @@ Para clonar e testar o projeto no seu computador:
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/lucazsilvz/portfolio.git
+git clone https://github.com/lucazsilvz/Portf-lio.git
 
 # 2. Acesse a pasta do projeto
-cd portfolio
+cd Portf-lio
 
 # 3. Abra o arquivo index.html no seu navegador
 # No Windows via terminal:
